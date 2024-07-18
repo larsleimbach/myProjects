@@ -31,8 +31,7 @@ Realizing a table decoration with Arduino.
 </div>
 Here a demonstration video:
 
-![Watch the video](https://youtube.com/shorts/zhxE67mmQ_0)
-
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/zhxE67mmQ_0)
 
 ### C - Operating System on Microcontroller (2020) 
 We implemented a simple operating system in C on a microcontroller during an university programming project.
@@ -50,7 +49,7 @@ We created a Calendar app in SwiftUI during an university programming project.
 ### Python - Video to note sheet 1.0 (2021)
 A program that transforms a piano learning video to a note sheet.
 
-[![Watch the video](https://img.youtube.com/vi/ba0vAiltg-4/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
 
 ### Hardware - Reparing my Mac Book Screen (2022)
 My backlight died due to a too short backlight cable of the Mac Books Pro 2016. I fixed the backlight cable but sadly I broke the LCD while repairing.
