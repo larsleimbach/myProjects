@@ -122,9 +122,8 @@ Version 0.5 was using the Scritable app
 
 The current version 0.9 implements a more appealing UX and new features
 
-<video height="400" controls>
-  <source src="videos/Track rep 0.9.mov" type="video/mp4">
-</video>
+<video src="videos/Track rep 0.9.mov" height="400" controls>
+  
 
 ### Machine Learning 
 Currently working on...
