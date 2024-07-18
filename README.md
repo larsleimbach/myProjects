@@ -50,9 +50,7 @@ We created a Calendar app in SwiftUI during an university programming project.
 ### Python - Video to note sheet 1.0 (2021)
 A program that transforms a piano learning video to a note sheet.
 
-<video height="200" controls>
-  <source src="videos/sheets from video.mp4" type="video/mp4">
-</video>
+[![Watch notes from video](https://img.youtube.com/vi/ba0vAiltg-4/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
 
 ### Hardware - Reparing my Mac Book Screen (2022)
 My backlight died due to a too short backlight cable of the Mac Books Pro 2016. I fixed the backlight cable but sadly I broke the LCD while repairing.
