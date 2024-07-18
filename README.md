@@ -16,7 +16,7 @@ A list of my passion programming projects.
 11. [CAD & Python - Master Thesis](#cad--python---master-thesis-2024)
 12. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
 13. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
-
+14. [Machine Learning](#machine-learning)
 
 ### Java - Tetris (2019)
 Starting with my Bachelor in Computer Science I decided to create my own Tetris in Java.
@@ -125,6 +125,9 @@ The current version 0.9 implements a more appealing UX and new features
 <video height="400" controls>
   <source src="videos/Track rep 0.9.mov" type="video/mp4">
 </video>
+
+### Machine Learning 
+Currently working on...
 
 ## Bash/Apple Scripts - Scripts
 I am using varies scripts and shortcuts for my Mac and Linux. For example, when my Mac Book screen failed, I had a script that selected my iPad as a screen after turning on the Mac Book.
