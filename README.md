@@ -31,9 +31,7 @@ Realizing a table decoration with Arduino.
 </div>
 Here a demonstration video:
 
-<video height="300" controls>
-  <source src="videos/table decoration.mov" type="video/mp4">
-</video>
+![Video Table Decoration](videos/table decoration.mov)
 
 ### C - Operating System on Microcontroller (2020) 
 We implemented a simple operating system in C on a microcontroller during an university programming project.
