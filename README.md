@@ -71,7 +71,7 @@ Final result
 ### Swift iOS - Piano Songs Learning App (2022)
 This app offers a control interface for piano songs, like setting markers, reducing fine graded the play back speed, and more.
 
-![Watch the video](https://youtube.com/shorts/pIrD1lxMFis)
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/pIrD1lxMFis)
 
 
 ### Python - Video to note sheet 2.0 (2021)
