@@ -31,7 +31,7 @@ Realizing a table decoration with Arduino.
 </div>
 Here a demonstration video:
 
-![Watch the video](https://github.com/larsleimbach/myProjects/blob/main/videos/table%20decoration.mov)
+![Watch the video](https://youtube.com/shorts/zhxE67mmQ_0)
 
 
 ### C - Operating System on Microcontroller (2020) 
@@ -50,7 +50,7 @@ We created a Calendar app in SwiftUI during an university programming project.
 ### Python - Video to note sheet 1.0 (2021)
 A program that transforms a piano learning video to a note sheet.
 
-[![Watch notes from video](https://img.youtube.com/vi/ba0vAiltg-4/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
+[![Watch the video](https://img.youtube.com/vi/ba0vAiltg-4/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
 
 ### Hardware - Reparing my Mac Book Screen (2022)
 My backlight died due to a too short backlight cable of the Mac Books Pro 2016. I fixed the backlight cable but sadly I broke the LCD while repairing.
@@ -61,9 +61,7 @@ My backlight died due to a too short backlight cable of the Mac Books Pro 2016. 
 
 Short success...
 
-<video height="300" controls>
-  <source src="videos/repair screen mac.mov" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/iiaEIQBJuUA)
 
 Final result
 
@@ -74,9 +72,8 @@ Final result
 ### Swift iOS - Piano Songs Learning App (2022)
 This app offers a control interface for piano songs, like setting markers, reducing fine graded the play back speed, and more.
 
-<video height="300" controls>
-  <source src="videos/bpm setter app.mov" type="video/mp4">
-</video>
+![Watch the video](https://youtube.com/shorts/pIrD1lxMFis)
+
 
 ### Python - Video to note sheet 2.0 (2021)
 I created a second version in Python on my iPad during a two-week vacation to increase the performance of version 1.0.
@@ -107,19 +104,15 @@ I wanted to create a simple workout tracker. I used the App
 
 Version 0.1 was realized with Apple Shortcuts app. Apple's Shortcut app is not suitable for this tasks...
 
-<video height="400" controls>
-  <source src="videos/TrackWeb 0.1.mov" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/YFJ7yUDNPcA/maxresdefault.jpg)](https://youtu.be/YFJ7yUDNPcA)
 
 Version 0.5 was using the Scritable app
 
-<video height="400" controls>
-  <source src="videos/track rep 0.5.mov" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/B__FVG0vv1A/maxresdefault.jpg)](https://youtu.be/B__FVG0vv1A)
 
 The current version 0.9 implements a more appealing UX and new features
 
-<video src="videos/Track rep 0.9.mov" height="400" controls>
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwkhU/maxresdefault.jpg)](https://youtu.be/JUw5EaPwkhU)
   
 
 ### Machine Learning 
