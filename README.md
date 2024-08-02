@@ -98,7 +98,7 @@ Next to the visualization and analysis in Python worked with CAD.
 
 
 ### Java Script iOS - Workout Tracker (2023 - 2024)
-I wanted to create a simple workout tracker. I used the App 
+I wanted to create a simple workout tracker (click [here](https://github.com/larsleimbach/TrackRep) to see more). I used the App 
 [Scritable](https://scriptable.app/) to create it because I don't pay 100$ a year to publish an iPhone app.
 
 Version 0.1 was realized with Apple Shortcuts app. Apple's Shortcut app is not suitable for this tasks...
