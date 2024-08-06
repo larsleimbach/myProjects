@@ -17,42 +17,57 @@ A list of my passion programming projects.
 12. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
 13. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
 14. [Machine Learning](#machine-learning)
+Sure, here is the markdown file with the headlines reversed:
 
-### Java - Tetris (2019)
-Starting with my Bachelor in Computer Science I decided to create my own Tetris in Java.
 
-### Microcontroller - Arduino (2019) 
-Realizing a table decoration with Arduino.
+### Machine Learning 
+Currently working on...
+
+### Java Script iOS - Workout Tracker (2023 - 2024)
+🚨‼️ Recommended to take a look:  
+I wanted to create a simple workout tracker (click [here](https://github.com/larsleimbach/TrackRep) to see more). I used the App 
+[Scritable](https://scriptable.app/) to create it because I don't pay 100$ a year to publish an iPhone app.
+
+Version 0.1 was realized with Apple Shortcuts app. Apple's Shortcut app is not suitable for this task...
+
+[![Watch the video](https://img.youtube.com/vi/YFJ7yUDNPcA/maxresdefault.jpg)](https://youtu.be/YFJ7yUDNPcA)
+
+Version 0.5 was using the Scritable app
+
+[![Watch the video](https://img.youtube.com/vi/B__FVG0vv1A/maxresdefault.jpg)](https://youtu.be/B__FVG0vv1A)
+
+The current version 0.9 implements a more appealing UX and new features
+
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwkhU/maxresdefault.jpg)](https://youtu.be/JUw5EaPwkhU)
+  
+### CAD & Python - Master Thesis (2024)
+Next to the visualization and analysis in Python, I worked with CAD.
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="pictures/Table decoration 1.JPG" alt="Bild 1" style="width: 20%;">
-    <img src="pictures/Table decoration 2.JPG" alt="Bild 2" style="width: 20%;">
-    <img src="pictures/Table decoration 3.JPG" alt="Bild 3" style="width: 20%;">
-    <img src="pictures/Table decoration 4.JPG" alt="Bild 4" style="width: 20%;">
+    <img src="pictures/CAD.JPG" alt="Bild 1" style="width: 20%;">
 </div>
-Here a demonstration video:
 
-[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/zhxE67mmQ_0)
-
-### C - Operating System on Microcontroller (2020) 
-We implemented a simple operating system in C on a microcontroller during an university programming project.
-
-### Swift Mac - Subtitle Adder (2020)
-If you have a subtitle to a video but the subtitle is drifting over time. I created a "semi-professional" GUI to set the correct subtitle.
+### Web development - Internship at Auta Health (2023)
+I worked with Django and React during my internship at a start-up company called Auta Health. We implemented the red marked feature of the Web app:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="pictures/mac%20app.png" alt="Bild 5" style="width: 50%;">
+    <img src="pictures/medigital.png" alt="Bild 1" style="width: 80%;">
 </div>
 
-### SwiftUI iOS - Calendar App (2021)
-We created a Calendar app in SwiftUI during an university programming project.
+### Python - Video to note sheet 2.0 (2021)
+I created a second version in Python on my iPad during a two-week vacation to increase the performance of version 1.0.
 
-### Python - Video to note sheet 1.0 (2021)
-A program that transforms a piano learning video to a note sheet.
+<div style="display: flex; justify-content: space-between;">
+    <img src="pictures/Video to note sheets 2.JPG" alt="Bild 1" style="width: 10%;">
+</div>
 
-[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
+### Swift iOS - Piano Songs Learning App (2022)
+This app offers a control interface for piano songs, like setting markers, reducing fine graded playback speed, and more.
+
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/pIrD1lxMFis)
 
 ### Hardware - Reparing my Mac Book Screen (2022)
-My backlight died due to a too short backlight cable of the Mac Books Pro 2016. I fixed the backlight cable but sadly I broke the LCD while repairing.
+My backlight died due to a too short backlight cable of the MacBook Pro 2016. I fixed the backlight cable but sadly I broke the LCD while repairing.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="pictures/Reparing Mac Screen2.JPG" alt="Bild 1" style="width: 20%;">
@@ -68,55 +83,38 @@ Final result
     <img src="pictures/Reparing Mac Screen4.JPG" alt="Bild 1" style="width: 20%;">
 </div>
 
-### Swift iOS - Piano Songs Learning App (2022)
-This app offers a control interface for piano songs, like setting markers, reducing fine graded the play back speed, and more.
+### Python - Video to note sheet 1.0 (2021)
+A program that transforms a piano learning video to a note sheet.
 
-[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/pIrD1lxMFis)
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtu.be/ba0vAiltg-4)
 
+### SwiftUI iOS - Calendar App (2021)
+We created a Calendar app in SwiftUI during a university programming project.
 
-### Python - Video to note sheet 2.0 (2021)
-I created a second version in Python on my iPad during a two-week vacation to increase the performance of version 1.0.
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="pictures/Video to note sheets 2.JPG" alt="Bild 1" style="width: 10%;">
-</div>
-
-### Web development - Internship at Auta Health (2023)
-I worked with Django and React during my internship at a start-up company called Auta Health. We implemented the red marked feature of the Web app:
+### Swift Mac - Subtitle Adder (2020)
+If you have a subtitle to a video but the subtitle is drifting over time. I created a "semi-professional" GUI to set the correct subtitle.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="pictures/medigital.png" alt="Bild 1" style="width: 80%;">
+    <img src="pictures/mac%20app.png" alt="Bild 5" style="width: 50%;">
 </div>
 
+### C - Operating System on Microcontroller (2020) 
+We implemented a simple operating system in C on a microcontroller during a university programming project.
 
-### CAD & Python - Master Thesis (2024)
-Next to the visualization and analysis in Python worked with CAD.
-
+### Microcontroller - Arduino (2019) 
+Realizing a table decoration with Arduino.
 <div style="display: flex; justify-content: space-between;">
-    <img src="pictures/CAD.JPG" alt="Bild 1" style="width: 20%;">
+    <img src="pictures/Table decoration 1.JPG" alt="Bild 1" style="width: 20%;">
+    <img src="pictures/Table decoration 2.JPG" alt="Bild 2" style="width: 20%;">
+    <img src="pictures/Table decoration 3.JPG" alt="Bild 3" style="width: 20%;">
+    <img src="pictures/Table decoration 4.JPG" alt="Bild 4" style="width: 20%;">
 </div>
+Here a demonstration video:
 
+[![Watch the video](https://img.youtube.com/vi/JUw5EaPwk/maxresdefault.jpg)](https://youtube.com/shorts/zhxE67mmQ_0)
 
-### Java Script iOS - Workout Tracker (2023 - 2024)
-🚨 Recommanded to take a look:  
-I wanted to create a simple workout tracker (click [here](https://github.com/larsleimbach/TrackRep) to see more). I used the App 
-[Scritable](https://scriptable.app/) to create it because I don't pay 100$ a year to publish an iPhone app.
-
-Version 0.1 was realized with Apple Shortcuts app. Apple's Shortcut app is not suitable for this tasks...
-
-[![Watch the video](https://img.youtube.com/vi/YFJ7yUDNPcA/maxresdefault.jpg)](https://youtu.be/YFJ7yUDNPcA)
-
-Version 0.5 was using the Scritable app
-
-[![Watch the video](https://img.youtube.com/vi/B__FVG0vv1A/maxresdefault.jpg)](https://youtu.be/B__FVG0vv1A)
-
-The current version 0.9 implements a more appealing UX and new features
-
-[![Watch the video](https://img.youtube.com/vi/JUw5EaPwkhU/maxresdefault.jpg)](https://youtu.be/JUw5EaPwkhU)
-  
-
-### Machine Learning 
-Currently working on...
+### Java - Tetris (2019)
+Starting with my Bachelor in Computer Science I decided to create my own Tetris in Java.
 
 ## Bash/Apple Scripts - Scripts
-I am using varies scripts and shortcuts for my Mac and Linux. For example, when my Mac Book screen failed, I had a script that selected my iPad as a screen after turning on the Mac Book.
+I am using various scripts and shortcuts for my Mac and Linux. For example, when my MacBook screen failed, I had a script that selected my iPad as a screen after turning on the MacBook.
