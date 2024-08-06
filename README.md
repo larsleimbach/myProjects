@@ -45,7 +45,7 @@ Next to the visualization and analysis in Python, I worked with CAD.
     <img src="pictures/CAD.JPG" alt="Bild 1" style="width: 20%;">
 </div>
 
-### Web development - Internship at Auta Health (2023)
+### Web development Full Stack - Internship at Auta Health (2023)
 I worked with Django and React during my internship at a start-up company called Auta Health. We implemented the red marked feature of the Web app:
 
 <div style="display: flex; justify-content: space-between;">
