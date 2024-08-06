@@ -17,8 +17,6 @@ A list of my passion programming projects.
 12. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
 13. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
 14. [Machine Learning](#machine-learning)
-Sure, here is the markdown file with the headlines reversed:
-
 
 ### Machine Learning 
 Currently working on...
