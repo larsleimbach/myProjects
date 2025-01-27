@@ -17,12 +17,45 @@ A list of my passion programming projects.
 12. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
 13. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
 14. [Machine Learning](#machine-learning)
+15. [Android App](#Android-App---VocabLab-2024)
+16. [Working Time Tracker](#Angular-Springboot-Web-Dev---Working-time-tracker-2024)
+17. [MQTT Analysis](#Python-Docker---MQTT-broker-analysis-2024)
 
 ### Machine Learning 
 Currently working on...
 
+### Python Docker - MQTT broker analysis (2024)
+
+I analyzed 6 MQTT broker reading to reliability. I tested under which circumstances message lost accrued. I worked with RabbitMQ, BiFroMQ, EMQX, HiveMQ, Mosquitto, VerneMQ.
+
+
+### Angular Springboot Web Dev - Working time tracker (2024)
+
+Web application to track working times 951×737, 
+
+<div style="display: flex;"> 
+    <img src="pictures/timetrack-start.png" alt="Bild 1" style="width:300px;">
+    <img src="pictures/timetrack-tracking.png" alt="Bild 2" style="width:300px;">
+</div>
+
+<div style="display: flex;">
+    <img src="pictures/timetrack-edit.png" alt="Bild 3" style="width:300px;">
+    <img src="pictures/timetrack-settings.png" alt="Bild 4" style="width:300px;">
+</div>
+
+### Android App - VocabLab (2024)
+
+It was not possible to edit or add words to my Portuguese vocabulary iPhone app. So, I extracted the Database, converted it, and constructed an android app to continue learning with my progress I archived.
+
+
+<div style="display: flex;">
+    <img src="pictures/android-app-welcome.png" alt="Bild 1" style="height: 300px;">
+    <img src="pictures/android-app-words.png" alt="Bild 4" style="height: 300px;">
+</div>
+
+
 ### Java Script iOS - Workout Tracker (2023 - 2024)
-🚨‼️ Recommended to take a look:  
+Recommended to take a look:  
 I wanted to create a simple workout tracker (click [here](https://github.com/larsleimbach/TrackRep) to see more). I used the App 
 [Scritable](https://scriptable.app/) to create it because I don't pay 100$ a year to publish an iPhone app.
 
