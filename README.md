@@ -10,16 +10,18 @@ A list of my passion programming projects.
 5. [SwiftUI iOS - Calendar App](#swiftui-ios---calendar-app-2021)
 6. [Python - Video to note sheet 1.0](#python---video-to-note-sheet-10-2021)
 7. [Hardware - Reparing my Mac Book Screen](#hardware---reparing-my-mac-book-screen-2022)
-8. [Swift iOS - Piano Songs Learning App](#swift-ios---piano-songs-learning-app-2022)
-9. [Python - Video to note sheet 2.0](#python---video-to-note-sheet-20-2021)
-10. [Web development - Internship at Medigital](#web-development---internship-at-medigital-2023)
-11. [CAD & Python - Master Thesis](#cad--python---master-thesis-2024)
-12. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
-13. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
-14. [Machine Learning](#machine-learning)
-15. [Android App](#Android-App---VocabLab-2024)
-16. [Working Time Tracker](#Angular-Springboot-Web-Dev---Working-time-tracker-2024)
-17. [MQTT Analysis](#Python-Docker---MQTT-broker-analysis-2024)
+8. [C++ - Bachelor Thesis](C++-Parallel-Computing---Bachelor-Thesis-2022)
+9. [Swift iOS - Piano Songs Learning App](#swift-ios---piano-songs-learning-app-2022)
+10. [Python - Video to note sheet 2.0](#python---video-to-note-sheet-20-2021)
+11. [C - IoT](C-Microcontroller---IoT-2023)
+12. [Web development - Internship at Medigital](#web-development---internship-at-medigital-2023)
+13. [CAD & Python - Master Thesis](#cad--python---master-thesis-2024)
+14. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
+15. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
+16. [Machine Learning](#machine-learning)
+17. [Android App](#Android-App---VocabLab-2024)
+18. [Working Time Tracker](#Angular-Springboot-Web-Dev---Working-time-tracker-2024)
+19. [MQTT Analysis](#Python-Docker---MQTT-broker-analysis-2024)
 
 ### Machine Learning 
 Currently working on...
@@ -85,12 +87,20 @@ I worked with Django and React during my internship at a start-up company called
     <img src="pictures/medigital.png" alt="Bild 1" style="width: 80%;">
 </div>
 
-### Python - Video to note sheet 2.0 (2021)
+### C Microcontroller - IoT (2023) 
+
+In university we created a microcontroller that counts in coming and out going persons into a room. We used a state machine to realize it. MQTT was used for communication with the ESP 32. 
+
+### Python - Video to note sheet 2.0 (2022)
 I created a second version in Python on my iPad during a two-week vacation to increase the performance of version 1.0.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="pictures/Video to note sheets 2.JPG" alt="Bild 1" style="width: 10%;">
 </div>
+
+### C++ Parallel Computing - Bachelor Thesis (2022)
+
+I extended a C++ analyze program by additional analyze pattern.
 
 ### Swift iOS - Piano Songs Learning App (2022)
 This app offers a control interface for piano songs, like setting markers, reducing fine graded playback speed, and more.
