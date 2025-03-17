@@ -15,7 +15,7 @@ A list of my passion programming projects.
 10. [Python - Video to note sheet 2.0](#python---video-to-note-sheet-20-2021)
 11. [C - IoT](C-Microcontroller---IoT-2023)
 12. [Web development - Internship at Medigital](#web-development---internship-at-medigital-2023)
-13. [CAD & Python - Master Thesis](#cad--python---master-thesis-2024)
+13. [Robots, CAD & Python - Master Thesis](#robots--cad--python---master-thesis-2024)
 14. [Java Script iOS - Workout Tracker](#java-script-ios---workout-tracker-2023---2024)
 15. [Bash/Apple Scripts - Scripts](#bashapple-scripts---scripts)
 16. [Machine Learning](#machine-learning)
@@ -73,13 +73,16 @@ The current version 0.9 implements a more appealing UX and new features
 
 [![Watch the video](https://img.youtube.com/vi/JUw5EaPwkhU/maxresdefault.jpg)](https://youtu.be/JUw5EaPwkhU)
   
-### CAD & Python - Master Thesis (2024)
-Next to the visualization and analysis in Python, I worked with CAD.
+### Robots CAD & Python - Master Thesis (2024)
+Next to the visualization and analysis in Python, I worked with CAD and Robots.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="pictures/CAD.JPG" alt="Bild 1" style="width: 20%;">
+    <img src="pictures/CAD.JPG" alt="Bild 1" style="width: 20%;"> 
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="pictures/masterT-Robot.png" alt="Bild 1" style="width: 50%;">
+</div>
 ### Web development Full Stack - Internship at Auta Health (2023)
 I worked with Django and React during my internship at a start-up company called Auta Health. We implemented the red marked feature of the Web app:
 
